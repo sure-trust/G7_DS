@@ -11,7 +11,7 @@
 
 # Course Report
 
-## Name: P.Usha sree
+## Name: Pothukunta Usha sree
 
 ## Qualifications: Pursuing 4th year of BTech 
 
