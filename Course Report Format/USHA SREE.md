@@ -11,9 +11,9 @@
 
 # Course Report
 
-## Name: P.USHA SREE
+## Name: P.Usha sree
 
-## Qualifications: PURSUING BTECH 4TH YEAR
+## Qualifications: Pursuing 4th year of BTech 
 
 Welcome to the course report for the Data Science and Data Analytics -- Basic Applications! This README document provides an overview of the course, its mini projects and final project.
 
