@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: House_Prices Prediction based on different features,Movie Regression using DecisionTree,Movie Classification using DesionTree,Bikerental during hours in a day,Loan prediction     | [click here](https://github.com/sure-trust/G7_DS/tree/main/Mini%20Projects/Usha%20Sree)                         |
+| Mini Projects: 1.House_Prices Prediction based on different features,2.Movie Regression using DecisionTree,3.Movie Classification using DesionTree,4.Bikerental during hours in a day,5.Loan prediction     | [click here](https://github.com/sure-trust/G7_DS/tree/main/Mini%20Projects/Usha%20Sree)                         |
 | Final Project:  heart disease prediction      | [click here](https://github.com/sure-trust/G7_DS/tree/main/Final%20Capstone%20Project/Usha%20Sree)                         |
