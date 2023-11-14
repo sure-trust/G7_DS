@@ -17,7 +17,16 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 ## Data Science and Data Analytics -- Basic Applications Course Registration
 
-To enroll in the Python, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/96)
+To enroll in the Python, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses)
+
+|Students name|Link|
+|--------------|----|
+|Girivardhan|[Click here](https://github.com/sure-trust/G7_DS/blob/main/Course%20Report%20Format/Girivardhan.md)|
+|Harsha Vardhan|[Click here](https://github.com/sure-trust/G7_DS/blob/main/Course%20Report%20Format/Harshavardhan.md)|
+|Niveditha|[Click here](https://github.com/sure-trust/G7_DS/blob/main/Course%20Report%20Format/Niveditha.md)|
+|Rohith|[Click here](https://github.com/sure-trust/G7_DS/blob/main/Course%20Report%20Format/Rohith.md)|
+|Sravan Kumar|[Click here](https://github.com/sure-trust/G7_DS/blob/main/Course%20Report%20Format/Sravan%20Kumar.md)|
+|Usha Sree|[Click here](https://github.com/sure-trust/G7_DS/blob/main/Course%20Report%20Format/USHA%20SREE.md)|
 
 
 ## Repository Description
@@ -33,4 +42,3 @@ Feel welcome to navigate through each designated folder to access specific, targ
 We encourage collaboration and participation from all learners. If you have any questions, suggestions, or improvements to contribute, please don't hesitate to get involved.
 
 For any inquiries or necessary assistance, we encourage you to connect with SURE Trust via our [official website](https://suretrustforruralyouth.com/). Your queries will be promptly addressed by our dedicated team.
-# G7_DS
